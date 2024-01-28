@@ -21,5 +21,5 @@ The app should look as follows:
 <br>
 
 
-![GNU Radio Icon](/img/GNU-Radio-App-Icon.png)<br>
+<img src="../img/Icons/GNU-Radio-App-Icon.png">
 
