@@ -23,7 +23,7 @@ These include:
 * Integer 8 (char)
 * Bits
 
-There are some extra types are are more unique to GNU Radio, so require a little more explination here.
+There are some extra types are more unique to GNU Radio, so require a little more explination here.
 
 ## Complex Types
 Complex Types are a method of representing complex numbers which are commonly used in GNU Radio and genral signal processing.
