@@ -22,4 +22,3 @@ The app should look as follows:
 
 
 <img src="../img/Icons/GNU-Radio-App-Icon.png">
-
