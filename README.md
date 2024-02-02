@@ -14,6 +14,9 @@ In this section, we'll learn how to setup a basic GNU Radio project from instala
 6. [Text to Symbol conversion]()
 7. [Modulation Basics]()
 
+### Online University Resources
+1. [University of British Columbia](https://people.ece.ubc.ca/edc/7860.jan2019/)
+<br>
 ### Useful Infomation
 * [GNU Radio Block Look up Table]()
 

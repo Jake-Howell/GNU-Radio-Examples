@@ -4,14 +4,14 @@ GNU Radio supports a number of data types that can be processed in the flograph.
 A complete list of supported types and assigned colour scheme can be seen in the image below.
 <br>
 
-<img src="../img/GUI-Screenshots/DataType_List.png" width="300px">
+<img src="../img/GUI-Tips/DataType_List.png" width="300px">
 
 <br>
 
 > Note: If you need a quick reminder of the supported types, goto:<br>
 Help -> Types<br>
 This option will show a handy list of supported and colour coded data types (as seen below).<br><br>
-<img src="../img/GUI-Screenshots/DataType_help_dropdown.png">
+<img src="../img/GUI-Tips/DataType_help_dropdown.png">
 
 GNU Radio uses common data types that are identical to most programming languages.<br> 
 These include:
